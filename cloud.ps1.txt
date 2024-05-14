@@ -1,0 +1,24 @@
+Directory: C:\Users\iRepair
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----         5/14/2024   5:14 PM                .ipython
+d-----         4/24/2024   7:40 PM                .jdks
+d-----         5/12/2024   7:55 PM                .keras
+d-----         4/22/2024  11:10 PM                .vscode
+d-----         4/22/2024  10:35 PM                CLionProjects
+d-r---         4/22/2024   2:39 PM                Contacts
+d-r---         5/14/2024   9:51 PM                Desktop
+d-r---          5/4/2024   1:24 PM                Documents
+d-r---         5/14/2024   8:55 PM                Downloads
+d-r---         4/22/2024   2:39 PM                Favorites
+d-----         5/10/2024   5:10 PM                IdeaProjects
+d-r---         4/22/2024   2:39 PM                Links
+d-r---         4/22/2024   2:39 PM                Music
+dar--l         5/14/2024   8:44 PM                OneDrive
+d-r---         4/23/2024   3:45 PM                Pictures
+d-r---         4/22/2024   2:39 PM                Saved Games
+d-r---         4/22/2024   4:09 PM                Searches
+d-r---         4/24/2024   3:17 PM                Videos
+-a----         4/22/2024  11:31 PM            217 .gitconfig
