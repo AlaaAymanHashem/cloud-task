@@ -1,4 +1,7 @@
-Directory: C:\Users\iRepair
+ dir
+
+
+    Directory: C:\Users\iRepair
 
 
 Mode                 LastWriteTime         Length Name
