@@ -1,0 +1,23 @@
+pipeline {
+    agent any
+
+    stages {
+        stage('Hello') {
+            steps {
+                echo 'Hello World'
+            }
+        }
+        stage('Pull repo'){
+            steps{
+                git branch: 'main', url: 'https://github.com/AlaaAymanHashem/cloud-task.git'
+            }
+        }
+        stage('Execute Bash Script') {
+            steps {
+                // Execute the bash script using Git Bash
+                bat 'D:\\FCAI\\cloud\\cloud-task\\cloud.bat'
+            }
+
+        }
+    }
+}
